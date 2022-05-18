@@ -1,0 +1,139 @@
+REM DIRINDEX 1\2\4\18,1\2\4\19,1\2\5\20,1\2\5\21,1\2\6\22,1\2\6\23,1\2\7\24,1\2\7\25,1\2\8\26,1\2\8\27,1\2\9\28,1\2\9\29,1\2\10\30,1\3\11\31,1\3\11\32,1\3\11\33,1\3\11\34,1\3\11\35,1\3\12\36,1\3\12\37,1\3\12\38,1\3\12\39,1\3\12\40,1\3\13\41,1\3\13\42,1\3\13\43,1\3\13\44,1\3\13\45,1\3\14\46,1\3\14\47,1\3\14\48,1\3\14\49,1\3\15\50,1\3\15\51,1\3\15\52,1\3\15\53,1\3\15\54,1\3\16\55,1\3\16\56,1\3\16\57,1\3\16\58,1\3\16\59,1\3\17\60,1\3\17\61
+REM DIRNAME "folder01","folder02","folder03","folder04","folder05","folder06","folder07","folder08","folder09","folder10","folder11","folder12","folder13","folder14","folder15","folder16","folder17","folder18","folder19","folder20","folder21","folder22","folder23","folder24","folder25","folder26","folder27","folder28","folder29","folder30","folder31","folder32","folder33","folder34","folder35","folder36","folder37","folder38","folder39","folder40","folder41","folder42","folder43","folder44","folder45","folder46","folder47","folder48","folder49","folder50","folder51","folder52","folder53","folder54","folder55","folder56","folder57","folder58","folder59","folder60","folder61"
+TITLE ""
+FILE "TOEIC LR Kinnojyukugo_09.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "0:"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "28:cjc160_1209"
+    INDEX 01 00:00:12
+  TRACK 03 AUDIO
+    TITLE "0:"
+    INDEX 01 00:01:35
+  TRACK 04 AUDIO
+    TITLE "29:cjc160_1210"
+    INDEX 01 00:01:72
+  TRACK 05 AUDIO
+    TITLE "0:"
+    INDEX 01 00:04:06
+  TRACK 06 AUDIO
+    TITLE "28:cjc160_1211"
+    INDEX 01 00:05:06
+  TRACK 07 AUDIO
+    TITLE "0:"
+    INDEX 01 00:06:19
+  TRACK 08 AUDIO
+    TITLE "29:cjc160_1212"
+    INDEX 01 00:06:58
+  TRACK 09 AUDIO
+    TITLE "0:"
+    INDEX 01 00:09:17
+  TRACK 10 AUDIO
+    TITLE "28:cjc160_1213"
+    INDEX 01 00:10:20
+  TRACK 11 AUDIO
+    TITLE "0:"
+    INDEX 01 00:11:41
+  TRACK 12 AUDIO
+    TITLE "29:cjc160_1214"
+    INDEX 01 00:12:06
+  TRACK 13 AUDIO
+    TITLE "0:"
+    INDEX 01 00:14:32
+  TRACK 14 AUDIO
+    TITLE "28:cjc160_1215"
+    INDEX 01 00:15:33
+  TRACK 15 AUDIO
+    TITLE "0:"
+    INDEX 01 00:16:29
+  TRACK 16 AUDIO
+    TITLE "29:cjc160_1216"
+    INDEX 01 00:16:68
+  TRACK 17 AUDIO
+    TITLE "0:"
+    INDEX 01 00:19:06
+  TRACK 18 AUDIO
+    TITLE "28:cjc160_1217"
+    INDEX 01 00:20:05
+  TRACK 19 AUDIO
+    TITLE "0:"
+    INDEX 01 00:21:01
+  TRACK 20 AUDIO
+    TITLE "29:cjc160_1218"
+    INDEX 01 00:21:40
+  TRACK 21 AUDIO
+    TITLE "0:"
+    INDEX 01 00:23:68
+  TRACK 22 AUDIO
+    TITLE "28:cjc160_1219"
+    INDEX 01 00:24:72
+  TRACK 23 AUDIO
+    TITLE "0:"
+    INDEX 01 00:26:08
+  TRACK 24 AUDIO
+    TITLE "29:cjc160_1220"
+    INDEX 01 00:26:43
+  TRACK 25 AUDIO
+    TITLE "0:"
+    INDEX 01 00:29:73
+  TRACK 26 AUDIO
+    TITLE "28:cjc160_1221"
+    INDEX 01 00:31:01
+  TRACK 27 AUDIO
+    TITLE "0:"
+    INDEX 01 00:32:26
+  TRACK 28 AUDIO
+    TITLE "29:cjc160_1222"
+    INDEX 01 00:32:65
+  TRACK 29 AUDIO
+    TITLE "0:"
+    INDEX 01 00:35:52
+  TRACK 30 AUDIO
+    TITLE "28:cjc160_1223"
+    INDEX 01 00:36:53
+  TRACK 31 AUDIO
+    TITLE "0:"
+    INDEX 01 00:37:57
+  TRACK 32 AUDIO
+    TITLE "29:cjc160_1224"
+    INDEX 01 00:38:21
+  TRACK 33 AUDIO
+    TITLE "0:"
+    INDEX 01 00:40:57
+  TRACK 34 AUDIO
+    TITLE "28:cjc160_1225"
+    INDEX 01 00:41:58
+  TRACK 35 AUDIO
+    TITLE "0:"
+    INDEX 01 00:42:56
+  TRACK 36 AUDIO
+    TITLE "29:cjc160_1226"
+    INDEX 01 00:43:20
+  TRACK 37 AUDIO
+    TITLE "0:"
+    INDEX 01 00:45:34
+  TRACK 38 AUDIO
+    TITLE "28:cjc160_1227"
+    INDEX 01 00:46:36
+  TRACK 39 AUDIO
+    TITLE "0:"
+    INDEX 01 00:47:41
+  TRACK 40 AUDIO
+    TITLE "29:cjc160_1228"
+    INDEX 01 00:48:05
+  TRACK 41 AUDIO
+    TITLE "0:"
+    INDEX 01 00:50:55
+  TRACK 42 AUDIO
+    TITLE "28:cjc160_1229"
+    INDEX 01 00:51:55
+  TRACK 43 AUDIO
+    TITLE "0:"
+    INDEX 01 00:52:52
+  TRACK 44 AUDIO
+    TITLE "29:cjc160_1230"
+    INDEX 01 00:53:16
+  TRACK 45 AUDIO
+    TITLE "0:"
+    INDEX 01 00:56:25
