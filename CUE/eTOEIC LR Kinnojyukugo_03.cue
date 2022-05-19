@@ -59,7 +59,7 @@ FILE "TOEIC LR Kinnojyukugo_03.mp3" MP3
     INDEX 01 00:21:38
   TRACK 20 AUDIO
     TITLE "TOEIC LR Kinnojyukugo_03_20"
-    INDEX 01 00:21:75
+    INDEX 01 00:22:00
   TRACK 21 AUDIO
     TITLE "TOEIC LR Kinnojyukugo_03_21"
     INDEX 01 00:24:48
